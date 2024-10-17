@@ -45,7 +45,7 @@ The company needs an accurate prediction of sales for the upcoming holiday seaso
    - Identify patterns in sales data and use these to build a time series model that predicts sales for the upcoming holiday season.
 
 2. **How effective have past promotions been?**
-   - Evaluate the success of various promotion types and their impact on sales. Which promotions resulted in the highest sales lift? Were there any that were less effective?
+   - Evaluate the success of various promotion types and their impact on sales. Which promotions resulted in the highest sales lift? Were there any that were less effective? Is the ad spend worthwhile?
 
 3. **What products should the company prioritise in terms of inventory for the holiday season?**
    - Based on your forecast, provide inventory recommendations to ensure the company stocks enough high-demand items while avoiding overstocking low-demand products.
