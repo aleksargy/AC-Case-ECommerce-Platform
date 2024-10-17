@@ -62,7 +62,6 @@ for date in dates:
 
 sales_df = pd.DataFrame(sales_data, columns=['date', 'product_id', 'quantity_sold', 'revenue', 'promotion_id'])
 
-# Save to CSV
 sales_df.to_csv('data/sales.csv', index=False)
 products_df.to_csv('data/products.csv', index=False)
 promotions_df.to_csv('data/holiday_promotions.csv', index=False)
